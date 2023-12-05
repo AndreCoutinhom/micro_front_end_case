@@ -1,5 +1,6 @@
 ---
-![image](https://github.com/AndreCoutinhom/micro_front_end_case/assets/91290799/313d1f24-508f-4426-bfc0-4d63a21af519)
+
+![image](https://github.com/AndreCoutinhom/micro_front_end_case/assets/91290799/100860b0-3a2c-4619-82d6-d56c36b02465)
 
 ---
 
