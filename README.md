@@ -34,6 +34,50 @@ Para a resolução dessa questão, a empresa optou pelo uso de Micro Front-End, 
 Assista ao case para mergulhar nas vantagens, desvantagens e processo dessa tomada de decisão!
 
 ---
+
+* A arquitetura começou a mudar sua estrutura de front-end quando cresceu em serviços. A dificuldade de compartilhar os monolitos era muito grande.
+---
+
+### Antes
+
+![image](https://github.com/AndreCoutinhom/micro_front_end_case/assets/91290799/568ec12e-d934-42fe-962e-34b73a986fec)
+
+
+### Depois
+
+![image](https://github.com/AndreCoutinhom/micro_front_end_case/assets/91290799/b73fad7c-8156-4743-bdf3-2bb99c010593)
+
+---
+
+> Micro Frontend é quando se utiliza microserviços para a construção do código que irá interagir com o usuário
+
+---
+
+### Características do Micro Frontend
+
+* Melhor escalabilidade;
+* Velocidade no desenvolvimento;
+* Deploy independente;
+* Codebase menor e mais manuseável;
+* Mais facilidade na revisão de alterações (PR);
+* Mais facilidade de contratação;
+* Mais facilidade para testar;
+* Necessário ter um design bem definido.
+
+---
+
+### Possíveis dificuldades
+
+* Múltiplas versões da mesma dependência;
+* Necessidade de integração e deploy contínuo;
+* Saber o tamanho ideal para seu projeto;
+* Possível variedade de padrões;
+* Necessidade de um design system bem estabelecido.
+
+---
+
+
+
 ## Materiais para Estudo
 
 * [**CURSO**: FORMAÇÃO FRONT-END](https://www.alura.com.br/formacao-front-end?_gl=1*kymvbe*_ga*ODM1Nzk2OTUyLjE2OTgzNDc1Mjk.*_ga_1EPWSW3PCS*MTcwMTU3MDk3Ni40NS4xLjE3MDE1NzY2MjguMC4wLjA.*_fplc*YWFVZHhVMDdrSmglMkJLelZNU2xyUGlqWHVoNUt4RmtDbXZrcGxlYnVURjBacDIyZzVEd3pKNkF6Wm5YRkxGJTJCJTJGSXRpSTloUzhNd2x3ZEE2TFYzVHlJNTQ1N051aVc0U29HbmdpdUU2Rkw4c0JBWk4lMkJVRzZHdnNaJTJCRlhrJTJCSVRRJTNEJTNE)
