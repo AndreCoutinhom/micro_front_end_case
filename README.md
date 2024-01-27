@@ -50,7 +50,9 @@ Assista ao case para mergulhar nas vantagens, desvantagens e processo dessa toma
 
 ---
 
-> Micro Frontend é quando se utiliza microserviços para a construção do código que irá interagir com o usuário
+> Micro Frontend é quando se utiliza microserviços para a construção do código que irá interagir com o usuário.
+
+![image](https://github.com/AndreCoutinhom/micro_front_end_case/assets/91290799/b94c070a-3a31-42c2-8a4c-541bad623ac2)
 
 ---
 
